@@ -1,6 +1,6 @@
 """
 Grid Node Models — Pydantic schemas shared across the backend.
-Each 'node' represents a home/EV/battery in the P2P microgrid.
+Each 'node' represent a home/EV/battery in the P2P microgrid.
 """
 from __future__ import annotations
 from enum import Enum
