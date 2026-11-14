@@ -1,6 +1,6 @@
 """
 Federated Learning Node — Flower (flwr) based privacy-preserving habit learning.
-Each node trains a local model on its own energy usage; only weights are shared.
+Each node trains a local model on the its own energy usage; only weights are shared.
 """
 from __future__ import annotations
 import logging, random
